@@ -1,6 +1,3 @@
-# findyourphoto
-Privacy policy &amp; public docs for Find Your Photo
-
 # Privacy Policy — Find Your Photo
 
 **Effective: April 23, 2026**
